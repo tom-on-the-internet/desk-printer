@@ -11,9 +11,9 @@ var emptyDesks = desks{
 
 // nolint
 var normalDesks = desks{
-	{normal, available, annoying, dirty, available},
-	{normal, available, available, dirty, normal},
+	{normal, available, annoying, sick, available},
+	{normal, available, available, sick, normal},
 	{normal, available, normal, normal, annoying},
-	{annoying, dirty, available, available, normal},
-	{normal, available, annoying, dirty, available},
+	{annoying, sick, available, available, normal},
+	{normal, available, annoying, sick, available},
 }

@@ -1,9 +1,9 @@
 package main
 
 const (
-	dirty     = "💨"
+	sick      = "😷"
 	normal    = "😃"
-	annoying  = "😁"
+	annoying  = "🤡"
 	available = "🆓"
 )
 

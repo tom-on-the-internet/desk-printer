@@ -8,9 +8,9 @@ func printBasic(desks [][]string) {
 
 	// legend
 	fmt.Println(available + " = Available Desk")
-	fmt.Println(dirty + " = Dirty Desk")
 	fmt.Println(normal + " = Normal Person")
 	fmt.Println(annoying + " = Annoying Person")
+	fmt.Println(sick + " = Sick Person")
 	fmt.Println("")
 
 	// desks
